@@ -10,10 +10,11 @@ url: "https://jsonx1ng.github.io" # the base hostname & protocol for your site, 
 # Author Settings
 author: Jason Liao # add your name
 author-img: Jason_Liao_profpic.JPEG # add your photo
-about-author: Third year Mechatronic Systems Engineering student at SFU and aspiring Roboticist # add description
+about-author: Third year Mechatronic Systems Engineering student at SFU and aspiring roboticist # add description
+resume-file: Jason_Liao_Resume.pdf # add your resume file name (place it in assets/)
 social-github: JsonX1ng # add your Github handle
 social-linkedin: jason-liao-jiaxin
-social-email: jasonxinghc25@outlook.com
+social-email: jla940@sfu.ca
 
 # Disqus
 discus-identifier: # add your discus identifier

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robomaster Sentry Turret
+title: RoboMaster Sentry Turret
 date: 2025-06-24 00:00:00 -0700
 description: I Designed and manufactured the turret of our University team's Sentry Robot for the 2025 Robomaster North America (RMNA) Robotics Competition. # Add post description (optional)
 img: Sentry2025.jpeg # Add image post (optional)

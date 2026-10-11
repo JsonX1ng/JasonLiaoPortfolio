@@ -68,6 +68,26 @@
   align-items: stretch;
 }
 
+.resume {
+  text-align: center;
+  margin: 0 0 15px;
+  a {
+    color: $body-color;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+    i {
+      margin-right: 6px;
+    }
+    &:hover {
+      color: $dark;
+      transform: scale(1.05);
+    }
+  }
+}
+
 .contact {
   .contact-title {
     position: relative;
